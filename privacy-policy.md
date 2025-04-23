@@ -1,6 +1,6 @@
 Effective Date: [23/04/25]
 
-[Car Confort] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how your information is handled when you use our mobile application, [App Name].
+[Car Confort] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how your information is handled when you use our mobile application, [Car Confort].
 
 ### 1. **No Data Collection**
 We do not collect, store, or share any personal data or user information. The app functions entirely offline and does not connect to the internet at any point.
